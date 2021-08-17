@@ -34,8 +34,8 @@
 
 <item>
 <title>[COLOR white]Superman sem Limites[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yXHSgPeqUlc$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfe663da0302990ba6a5368e439f1121a499a48a$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yXHSgPeqUlc$nome=[B]Trailer [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfe663da0302990ba6a5368e439f1121a499a48a$nome=[B]720p Dual Áudio [/B]</link>
 <thumbnail>https://i.ibb.co/dtrnpvd/superman-sem-limites-capa01.jpg</thumbnail>
 <fanart>https://i.ibb.co/b69bdS4/superman-sem-limites.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2013[/COLOR]
